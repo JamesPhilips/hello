@@ -1,2 +1,4 @@
 # hello
-hello world app
+my first repository on Github
+
+I have no idea what I'm doing.
